@@ -15,3 +15,5 @@ Find my github portfolio [here](https://github.com/Erinsp)
 ### Table of Contents
 - [Day 1, Part 1](https://erinsp.github.io/reading-notes/markdown)
 - [Day 1, Part 2](https://erinsp.github.io/reading-notes/basics)
+- [Day 2, Part 1](https://erinsp.github.io/reading-notes/cloud-revisions)
+- 
