@@ -13,4 +13,5 @@ Find my github portfolio [here](https://github.com/Erinsp)
 3. Persevere! Keep trying and don't let yourself get frustrated
 
 ### Table of Contents
-- [Reading Class 1](https://erinsp.github.io/reading-notes/markdown)
+- [Day 1, Part 1](https://erinsp.github.io/reading-notes/markdown)
+- [Day 1, Part 2](https://erinsp.github.io/reading-notes/basics)
