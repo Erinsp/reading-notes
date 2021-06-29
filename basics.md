@@ -1,4 +1,6 @@
-# Shortcut Notes
+# Notes: The Basics
+
+### Shortcuts
 
 Shortcut | Definition
 -------- | ----------
@@ -14,7 +16,7 @@ cd ../.. | go back two directories
 \ | nullifies the special meaning of the next character
 ls -a | lists all files including hidden files in a location
 
-# Text Editor Notes
+### Text Editor Notes
 Choosing a text editor is a personal choice as there are many out there that offer similar features. It's up to you to decide which features are most important to you and choose accordingly. 
 
 Some of the features to look out for are:
