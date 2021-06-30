@@ -13,7 +13,13 @@ Find my github portfolio [here](https://github.com/Erinsp)
 3. Persevere! Keep trying and don't let yourself get frustrated
 
 ### Table of Contents
-- [Day 1, Part 1](https://erinsp.github.io/reading-notes/markdown)
-- [Day 1, Part 2](https://erinsp.github.io/reading-notes/basics)
-- [Day 2, Part 1](https://erinsp.github.io/reading-notes/cloud-revisions)
-- [Day 2, Part 2](https://erinsp.github.io/reading-notes/html)
+Lesson | Link
+------ | ----
+LESSON 1 | [Day 1, Part 1](https://erinsp.github.io/reading-notes/markdown)
+LESSON 2 | [Day 1, Part 2](https://erinsp.github.io/reading-notes/basics)
+LESSON 3 | [Day 2, Part 1](https://erinsp.github.io/reading-notes/cloud-revisions)
+LESSON 4 | [Day 2, Part 2](https://erinsp.github.io/reading-notes/html)
+LESSON 5 | [Day 3, Part 1](https://erinsp.github.io/reading-notes/css)
+LESSON 6 | [Day 3, Part 2](https://erinsp.github.io/reading-notes/javascript)
+
+
